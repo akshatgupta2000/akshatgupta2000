@@ -30,5 +30,5 @@ Link will be added once published.
 
 ## 📫 Contact  
 📧 Email: akshatgupta13427@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/akshat-gupta-2100ag
+🔗 LinkedIn: https://www.linkedin.com/in/akshat-gupta-2100ag
 🌐 GitHub: https://github.com/akshatgupta2000
