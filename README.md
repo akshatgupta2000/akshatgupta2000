@@ -1,5 +1,5 @@
 # Hi, I'm Akshat Gupta 👋  
-*Investment Research | Financial Modelling | Cross-Market Analysis | ESG & Sector Strategy*
+*Investment Research | Financial Modelling | Cross-Market Analysis*
 
 Welcome to my GitHub.  
 I analyze companies, sectors, and economies using ROCE-based valuation frameworks, financial models, dashboards, Power BI reports, and cross-market research.
