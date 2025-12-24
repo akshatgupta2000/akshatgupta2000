@@ -1,4 +1,4 @@
-Hi, I'm Akshat Gupta 👋  
+## Hi, I'm Akshat Gupta 👋  
 MBA (Finance) | Founder – Aurex Research  
 📊 Financial Modeling • Valuation • Fundamental Research • Dashboards
 
