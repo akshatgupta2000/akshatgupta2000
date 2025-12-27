@@ -52,6 +52,25 @@ A ROCE-driven compounding framework analyzing two Indian FMCG leaders to underst
 
 ---
 
+### 🔹 LBO + DCF Transaction Model (IT Services Case)
+This framework complements traditional DCF analysis by adding a private equity lens — focusing on capital structure, debt paydown, and exit value creation, without making any investment recommendations.
+
+Key features:
+
+- Entry valuation snapshot (EV, EBITDA, entry multiple)
+- Capital structure & funding mix (Debt vs Equity)
+- Debt schedule with cash sweep and paydown logic
+- Exit valuation using EV/EBITDA multiple
+- Equity bridge from entry to exit (waterfall)
+- Returns analysis: MOIC & Equity IRR
+- Scenario-driven assumptions (holding period, leverage, cost of debt, fees)
+- Integrated Transaction Summary Dashboard with charts
+- Designed to be fully compatible with the underlying operating & DCF model
+
+📁 Repo: https://github.com/akshatgupta2000/aurex-research
+
+---
+
 ### 🔹 Decoding India & US Corporate Landscape (2020–2030)
 A cross-sector research project covering:
 
