@@ -71,6 +71,23 @@ Key features:
 
 ---
 
+### 🔹 Valuation Dashboard - Deterministic & Probabilistic View
+An Excel-based operating-driver valuation model with Monte Carlo simulation, designed to evaluate intrinsic value through ranges and probabilities rather than point estimates.
+
+Key features:
+
+- Operating model linking growth, profitability, reinvestment, and FCFF
+- Explicit focus on economic value drivers instead of accounting statements
+- Monte Carlo simulation to model uncertainty across key assumptions
+- Percentile-based WACC × g sensitivity surface built from simulated outcomes
+- Clean, analyst-grade Output Dashboard summarizing risk, dispersion, and valuation robustness
+
+The project highlights probabilistic thinking and valuation fragility, offering a structured approach to understanding long-term value under uncertainty.
+
+📁 Repo: https://github.com/akshatgupta2000/aurex-research
+
+---
+
 ### 🔹 Decoding India & US Corporate Landscape (2020–2030)
 A cross-sector research project covering:
 
